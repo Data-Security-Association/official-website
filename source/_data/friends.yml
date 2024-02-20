@@ -1,0 +1,20 @@
+- group: 外网
+  items:
+    - title: 电子数据取证综合平台
+      avatar: https://bu.dusays.com/2022/11/04/636484bf226e9.png
+      url: https://forensics.didctf.com/
+      keywords: 电子取证
+    - title: Forensics-Wiki
+      avatar: https://bu.dusays.com/2024/02/20/65d4b4f8af3c5.png
+      url: https://www.forensics-wiki.com/
+      keywords: 电子取证
+    - title: 数据处理工具
+      avatar: https://bu.dusays.com/2024/02/20/65d4b4da204b1.png
+      url: https://tool.didctf.com/
+      keywords: base64 base32 rot13 ……
+- group: 内网
+  items:
+    - title: Online Judge
+      avatar: https://bu.dusays.com/2024/02/20/65d4b5492bfad.jpg
+      url: http://10.253.21.130/
+      keywords: C C++ Python Java

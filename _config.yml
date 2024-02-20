@@ -3,17 +3,18 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle: ''
-description: ''
-keywords:
-author: John Doe
-language: en
+title: 数据安全协创社团 - GSUPL
+subtitle: '数据安全协创社团 - GSUPL'
+description: '数据安全协创社团 From GSUPL'
+keywords: 电子取证,CTF,数据安全,信息安全,数据安全协创社团,社团,GSUPL,Windows取证,Linux取证,服务器取证,手机取证,物联网取证,C,C++,Python,Java,PHP
+author: Data Security Association
+language: zh-CN
 timezone: ''
+favicon: https://bu.dusays.com/2023/08/20/64e208784f996.ico
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://example.com
+url: http://www.didctf.com
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -43,15 +44,14 @@ render_drafts: false
 post_asset_folder: false
 relative_link: false
 future: true
+syntax_highlighter: highlight.js
 highlight:
-  enable: true
   line_number: true
   auto_detect: false
   tab_replace: ''
   wrap: true
   hljs: false
 prismjs:
-  enable: false
   preprocess: true
   line_number: true
   tab_replace: ''
@@ -97,11 +97,9 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: volantis
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: 'git'
-  repo: git@github.com:Data-Security-Association/official-website.git
-  branch: gh-pages
+  type: ''

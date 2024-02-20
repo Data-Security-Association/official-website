@@ -1,38 +1,32 @@
 ---
-title: Hello World
+title: 新的社团官网启用！
+date: 2024-02-20 23:11:53
 ---
-Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
+## 🎉 **社团官网全新上线** 🚀
 
-## Quick Start
+亲爱的社团成员和关注者们，
 
-### Create a new post
+我们很高兴地宣布，我们的社团官网现已正式启用！🎊 这是一个全新的平台，旨在为大家提供一个了解社团动态、交流技术心得、分享项目经验的空间。
 
-``` bash
-$ hexo new "My New Post"
-```
+### **网站概览**
 
-More info: [Writing](https://hexo.io/docs/writing.html)
+- **基本信息**：在这里，你可以找到我们社团的详细介绍，包括我们的使命、愿景、成员构成以及我们所关注和参与的项目。
+- **技术文章**：我们鼓励成员分享他们的技术见解和项目经验。这些文章将涵盖各种主题，从CTF到最新取证趋势，旨在促进知识共享和学习。
+- **社区互动**：我们希望通过这个平台，建立一个活跃的社区，让成员们能够相互支持、共同成长。
 
-### Run server
+### **技术细节**
 
-``` bash
-$ hexo server
-```
+- **搭建工具**：我们的网站使用 **Hexo** 搭建，这是一个快速、简洁且高效的静态网站生成器。
+- **托管平台**：网站托管在 **GitHub Pages** 上，确保了网站的稳定性和安全性。
 
-More info: [Server](https://hexo.io/docs/server.html)
 
-### Generate static files
+### **参与方式**
 
-``` bash
-$ hexo generate
-```
+- **成员投稿**：如果你有想要分享的内容，欢迎通过我们的投稿渠道提交你的文章。我们将定期审核并发布优秀的作品。
+- **反馈建议**：如果你对网站有任何建议或发现任何问题，请通过我们的联系方式告诉我们。我们非常重视每一位用户的反馈。
 
-More info: [Generating](https://hexo.io/docs/generating.html)
+🌟 **加入我们，共同成长！**
 
-### Deploy to remote sites
+我们期待你的参与，让我们携手打造一个充满活力和创造力的社区。再次感谢你的关注，让我们一起迎接这个全新的开始！
 
-``` bash
-$ hexo deploy
-```
-
-More info: [Deployment](https://hexo.io/docs/one-command-deployment.html)
+---
