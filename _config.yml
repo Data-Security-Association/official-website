@@ -12,6 +12,9 @@ language: zh-CN
 timezone: ''
 favicon: https://bu.dusays.com/2023/08/20/64e208784f996.ico
 
+# 51LA Analytics
+v6_51_la: JhFJHqroTwHexEAL
+
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
 url: http://www.didctf.com
