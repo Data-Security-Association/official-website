@@ -555,3 +555,12 @@ comments:
 
 
 ############################### Comments ############################### > end
+
+############################### Analytics ############################### > start
+analytics:
+  busuanzi: #volantis-static/libs/busuanzi/js/busuanzi.pure.mini.js #https://cdn.jsdelivr.net/gh/volantis-x/cdn-busuanzi@2.3/js/busuanzi.pure.mini.js
+  leancloud: # 请使用自己的 id & key 以防止数据丢失
+    app_id: TuoYZ3qXy3UR2GTxX57RZcCs-MdYXbMMI
+    app_key: Ohfl3XYb6Y9BNu8B0OonpMTt
+    custom_api_server: # 国际版一般不需要写，除非自定义了 API Server
+############################### Analytics ############################### > end
